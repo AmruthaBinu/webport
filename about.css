@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(210, 105, 30);
+    color: black;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.para {
+    text-align: center;
+    text-align: justify;
+}
