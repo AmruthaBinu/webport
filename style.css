@@ -92,9 +92,9 @@ ul li a:hover{
     background: rgb(59,174,209);
 
 }
-/* 
+
 .image{
-    width: 30%;
+    width: 50%;
     height: 60%;
     position: right;
     right: 100px;
@@ -104,8 +104,30 @@ ul li a:hover{
 
 .image img{
     position: absolute;
-    height: 140%;
+    height: 50%;
     left: 40%;
-    transform: translate(-50%);
+    transform: translate(55%);
     bottom: 0;
-} */
+    top: 180px;
+}
+
+.icons a{
+    text-decoration: none;
+    color: #000;
+
+}
+.icons ion-icon{
+    position: relative;
+    margin-left: 7%;
+    color: #000;
+    margin-right: -60px;
+    top: -340px;
+    font-size: 32px;
+
+
+}
+
+.icons ion-icon:hover{
+    background: rgb(193, 53, 132);
+
+}
